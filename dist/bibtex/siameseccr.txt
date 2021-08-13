@@ -1,0 +1,10 @@
+@article{chen2020siameseccr,
+  title={SiameseCCR: a novel method for one-shot and few-shot Chinese CAPTCHA recognition using deep Siamese network},
+  author={Chen, Zhe and Ma, Weifeng and Xu, Nanfan and Ji, Caoting and Zhang, Yulai},
+  journal={IET Image Processing},
+  volume={14},
+  number={12},
+  pages={2855--2859},
+  year={2020},
+  publisher={IET}
+}
