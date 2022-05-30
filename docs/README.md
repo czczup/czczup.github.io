@@ -14,7 +14,7 @@ socials:
     link: 'mailto:wztxy89[at]163.com'
     
 cv: /pdf/cv.pdf
-bio: M.S. Student at Nanjing University
+bio: Phd Candidate at Nanjing University
 email: chenzhe98@smail.nju.edu.cn
 ---
 
@@ -22,12 +22,13 @@ email: chenzhe98@smail.nju.edu.cn
 
 ## About Me
 
-I am an M.S. student in Department of Computer Science and Technology, Nanjing University (NJU) since 2020, supervised by [Prof. Tong Lu](https://cs.nju.edu.cn/lutong/). 
-I received my bachelor degree from School of Information and Electronic Engineering, Zhejiang University of Science and Technology (ZUST) in 2020.
+I am a PhD candidate in Department of Computer Science and Technology, Nanjing University (NJU) since 2020, supervised by [Prof. Tong Lu](https://cs.nju.edu.cn/lutong/). 
 
-My research interests are computer vision and deep learning. I did some works about semantic segmentation, object detection, and neural style transfer.
+My research interests are computer vision and deep learning. I did some works about vision transformer backbone, detection & segmentation, and neural style transfer.
 
 ## News
+- [2022-06-01] Code of ViT-Adapter is released at [here](https://github.com/czczup/ViT-Adapter).
+- [2021-12-01] [URST](https://arxiv.org/abs/2103.11784) is accepted by AAAI 2022.
 - [2021-03-23] Code of URST is released at [here](https://github.com/czczup/URST).
 - [2020-12-21] Our team wins the champion of [NAIC 2020 Remote Sensing Semantic Segmentation Task (1,000,000 RMB bonus)](https://cs.nju.edu.cn/b8/d5/c1654a506069/page.htm).
 - [2020-09-01] Attended Nanjing University.
@@ -52,13 +53,15 @@ Sept 2016 - June 2020
 
   **Towards Ultra-Resolution Neural Style Transfer via Thumbnail Instance Normalization**
 
-  **Zhe Chen**, Wenhai Wang, Enze Xie, Tong Lu*, Ping Luo
+  **Zhe Chen**, Wenhai Wang*, Enze Xie, Tong Lu*, Ping Luo
 
-  Technical Report, 2021
+  Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI), 2022
 
-  Introduction: URST is a versatile framework for ultra-high resolution style transfer under limited memory resources.
+  Introduction: URST is a versatile framework for ultra-high resolution style transfer under limited GPU memory resources.
 
-  [[Paper](https://arxiv.org/pdf/2103.11784.pdf)] [[Code](https://github.com/czczup/URST)] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:zSy0_gpYt8kJ:scholar.google.com/&output=citation&scisdr=CgWsKTJqEI--3pFKW-0:AAGBfm0AAAAAYRZMQ-2DcnfFNGEUcu-921CU2wM94yAh&scisig=AAGBfm0AAAAAYRZMQ9HRcai2t7C_-IJwTRtcfi0nGhM3&scisf=4&ct=citation&cd=-1&hl=en)]
+  [[Paper](https://arxiv.org/abs/2103.11784)]
+  [[BibTex](/bibtex/urst.txt)]
+  [[Code](https://github.com/czczup/URST)]  
 
 </ProjectCard>
 
@@ -73,10 +76,28 @@ Sept 2016 - June 2020
 
   Introduction: We proposed a Siamese network-based method for one-shot and few-shot Chinese CAPTCHA Recognition.
   
-  [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-ipr.2019.0618)] [[Code](https://github.com/czczup/SiameseCCR)] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:hVCGrrz8xRsJ:scholar.google.com/&output=citation&scisdr=CgWsKTJqEI--3pE3THQ:AAGBfm0AAAAAYRYxVHTzAjddCP8F0tyu_UdKM-B0A000&scisig=AAGBfm0AAAAAYRYxVP9qCL6gz6H73X7DO9RR3GsU2o6v&scisf=4&ct=citation&cd=-1&hl=en)]
+  [[Paper](/pdf/SiameseCCR.pdf)]
+  [[BibTex](/bibtex/siameseccr.txt)]
+  [[Code](https://github.com/czczup/SiameseCCR)] 
 
 </ProjectCard>
 
+
+<ProjectCard image="/projects/fast.png" hideBorder=true>
+
+  **FAST: Searching for a Faster Arbitrarily-Shaped Text Detector with Minimalist Kernel Representation**
+
+  **Zhe Chen**, Wenhai Wang, Enze Xie, Zhibo Yang, Tong Lu*, Ping Luo
+
+  Technical Report, 2022
+
+  Introduction: We propose an accurate and efficient scene text detection framework, termed FAST (i.e., faster arbitrarily-shaped text detector). 
+
+  [[Paper](https://arxiv.org/abs/2111.02394)]
+  [[BibTex](/bibtex/fast.txt)]
+  [[Code](https://github.com/whai362/pan_pp.pytorch)]  
+
+</ProjectCard>
 
 ## Awards & Honors
 

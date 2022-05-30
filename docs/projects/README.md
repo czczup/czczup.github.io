@@ -12,13 +12,15 @@ Here are some works of mine :books:
 
   **Towards Ultra-Resolution Neural Style Transfer via Thumbnail Instance Normalization**
 
-  **Zhe Chen**, Wenhai Wang, Enze Xie, Tong Lu*, Ping Luo
+  **Zhe Chen**, Wenhai Wang*, Enze Xie, Tong Lu*, Ping Luo
 
-  Technical Report, 2021
+  Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI), 2022
 
   Introduction: URST is a versatile framework for ultra-high resolution style transfer under limited memory resources.
 
-  [[Paper](https://arxiv.org/pdf/2103.11784.pdf)] [[Code](https://github.com/czczup/URST)] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:zSy0_gpYt8kJ:scholar.google.com/&output=citation&scisdr=CgWsKTJqEI--3pFKW-0:AAGBfm0AAAAAYRZMQ-2DcnfFNGEUcu-921CU2wM94yAh&scisig=AAGBfm0AAAAAYRZMQ9HRcai2t7C_-IJwTRtcfi0nGhM3&scisf=4&ct=citation&cd=-1&hl=en)]
+  [[Paper](https://arxiv.org/abs/2103.11784)]
+  [[BibTex](/bibtex/urst.txt)]
+  [[Code](https://github.com/czczup/URST)]  
 
 </ProjectCard>
 
@@ -32,25 +34,53 @@ Here are some works of mine :books:
 
   Introduction: We proposed a Siamese network-based method for one-shot and few-shot Chinese CAPTCHA Recognition.
   
-  [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-ipr.2019.0618)] [[Code](https://github.com/czczup/SiameseCCR)] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:hVCGrrz8xRsJ:scholar.google.com/&output=citation&scisdr=CgWsKTJqEI--3pE3THQ:AAGBfm0AAAAAYRYxVHTzAjddCP8F0tyu_UdKM-B0A000&scisig=AAGBfm0AAAAAYRYxVP9qCL6gz6H73X7DO9RR3GsU2o6v&scisf=4&ct=citation&cd=-1&hl=en)]
+  [[Paper](/pdf/SiameseCCR.pdf)]
+  [[BibTex](/bibtex/siameseccr.txt)]
+  [[Code](https://github.com/czczup/SiameseCCR)]
+  
+</ProjectCard>
+
+
+<ProjectCard image="/projects/fast.png">
+
+  **FAST: Searching for a Faster Arbitrarily-Shaped Text Detector with Minimalist Kernel Representation**
+
+  **Zhe Chen**, Wenhai Wang, Enze Xie, Zhibo Yang, Tong Lu*, Ping Luo
+
+  Technical Report, 2022
+
+  Introduction: We propose an accurate and efficient scene text detection framework, termed FAST (i.e., faster arbitrarily-shaped text detector). 
+
+  [[Paper](https://arxiv.org/abs/2111.02394)]
+  [[BibTex](/bibtex/fast.txt)]
+  [[Code](https://github.com/whai362/pan_pp.pytorch)]  
 
 </ProjectCard>
+
 
 ## Projects
 
-<ProjectCard image="/projects/1.png">
+<ProjectCard image="/projects/musesart.jpg">
 
-  Harry P., Hermione G., *et al*
-  
-  **The Making of Zhe Chen's Wand**
-  
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+  **MusesArt: A Fast Style Transfer Application based on the Xiaomi's MACE Framework**
+
+  Introduction: MusesArt is an Android application to achieve high-resolution nerual style transfer on mobile devices. It is built on OpenCV and Xiaomi's MACE. You can download the source code and compile it with [Android Studio](https://developer.android.google.cn/studio/), or install the package we released.
+
+  [[Apk](https://github.com/czczup/MusesArt/releases/download/V1.0/app-release.apk)]
+  [[Code](https://github.com/czczup/MusesArt)]
 
 </ProjectCard>
 
+<ProjectCard image="/projects/captcha_recognition.jpg">
 
+  **English and Chinese Captcha Recognition via TensorFlow**
+
+  Introduction: This is our solution for the Captcha Recognition Task of the 9nd National Undergraduate Service Outsourcing Competition.
+  The target of this challenge is to recognize the captcha images with multi levels of difficulty, including digital captcha, English captcha, and Chinese captcha.
+
+  [[Code](https://github.com/czczup/Captcha-Recognition)]
+
+</ProjectCard>
 
 <style lang="stylus">
 

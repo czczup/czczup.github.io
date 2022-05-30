@@ -10,7 +10,7 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
-      { text: "Projects", link: "/projects/" },
+      { text: "Publications", link: "/projects/" },
       { text: "GitHub", link: "https://github.com/czczup" }
     ],
     sidebar: {
