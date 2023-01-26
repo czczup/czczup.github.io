@@ -1,0 +1,6 @@
+@article{gao2023champion,
+  title={Champion Solution for the WSDM2023 Toloka VQA Challenge},
+  author={Gao, Shengyi and Chen, Zhe and Chen, Guo and Wang, Wenhai and Lu, Tong},
+  journal={arXiv preprint arXiv:2301.09045},
+  year={2023}
+}
