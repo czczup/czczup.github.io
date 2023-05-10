@@ -1,0 +1,6 @@
+@article{ji2023ddp,
+  title={DDP: Diffusion Model for Dense Visual Prediction},
+  author={Ji, Yuanfeng and Chen, Zhe and Xie, Enze and Hong, Lanqing and Liu, Xihui and Liu, Zhaoqiang and Lu, Tong and Li, Zhenguo and Luo, Ping},
+  journal={arXiv preprint arXiv:2303.17559},
+  year={2023}
+}
