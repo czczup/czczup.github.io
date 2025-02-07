@@ -1,6 +1,9 @@
-@article{gao2023avsegformer,
+@inproceedings{gao2024avsegformer,
   title={Avsegformer: Audio-visual segmentation with transformer},
   author={Gao, Shengyi and Chen, Zhe and Chen, Guo and Wang, Wenhai and Lu, Tong},
-  journal={arXiv preprint arXiv:2307.01146},
-  year={2023}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={11},
+  pages={12155--12163},
+  year={2024}
 }
