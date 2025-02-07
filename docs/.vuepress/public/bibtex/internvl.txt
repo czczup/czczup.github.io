@@ -1,6 +1,6 @@
-@article{wang2022internimage,
-  title={InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions},
-  author={Wang, Wenhai and Dai, Jifeng and Chen, Zhe and Huang, Zhenhang and Li, Zhiqi and Zhu, Xizhou and Hu, Xiaowei and Lu, Tong and Lu, Lewei and Li, Hongsheng and others},
-  journal={arXiv preprint arXiv:2211.05778},
-  year={2022}
+@article{chen2023internvl,
+  title={Internvl: Scaling up vision foundation models and aligning for generic visual-linguistic tasks},
+  author={Chen, Zhe and Wu, Jiannan and Wang, Wenhai and Su, Weijie and Chen, Guo and Xing, Sen and Muyan, Zhong and Zhang, Qinglong and Zhu, Xizhou and Lu, Lewei and others},
+  journal={arXiv preprint arXiv:2312.14238},
+  year={2023}
 }
