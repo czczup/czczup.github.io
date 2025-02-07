@@ -1,0 +1,6 @@
+@article{chen2024expanding,
+  title={Expanding performance boundaries of open-source multimodal models with model, data, and test-time scaling},
+  author={Chen, Zhe and Wang, Weiyun and Cao, Yue and Liu, Yangzhou and Gao, Zhangwei and Cui, Erfei and Zhu, Jinguo and Ye, Shenglong and Tian, Hao and Liu, Zhaoyang and others},
+  journal={arXiv preprint arXiv:2412.05271},
+  year={2024}
+}
