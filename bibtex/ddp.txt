@@ -1,0 +1,7 @@
+@inproceedings{ji2023ddp,
+  title={Ddp: Diffusion model for dense visual prediction},
+  author={Ji, Yuanfeng and Chen, Zhe and Xie, Enze and Hong, Lanqing and Liu, Xihui and Liu, Zhaoqiang and Lu, Tong and Li, Zhenguo and Luo, Ping},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={21741--21752},
+  year={2023}
+}

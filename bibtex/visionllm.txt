@@ -1,0 +1,7 @@
+@article{wang2024visionllm,
+  title={Visionllm: Large language model is also an open-ended decoder for vision-centric tasks},
+  author={Wang, Wenhai and Chen, Zhe and Chen, Xiaokang and Wu, Jiannan and Zhu, Xizhou and Zeng, Gang and Luo, Ping and Lu, Tong and Zhou, Jie and Qiao, Yu and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
+}

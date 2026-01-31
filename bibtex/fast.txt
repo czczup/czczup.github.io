@@ -1,0 +1,6 @@
+@article{chen2021fast,
+  title={Fast: Faster arbitrarily-shaped text detector with minimalist kernel representation},
+  author={Chen, Zhe and Wang, Jiahao and Wang, Wenhai and Chen, Guo and Xie, Enze and Luo, Ping and Lu, Tong},
+  journal={arXiv preprint arXiv:2111.02394},
+  year={2021}
+}

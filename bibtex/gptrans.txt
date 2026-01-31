@@ -1,0 +1,7 @@
+@inproceedings{chen2023graph,
+  title={Graph propagation transformer for graph representation learning},
+  author={Chen, Zhe and Tan, Hao and Wang, Tao and Shen, Tianrun and Lu, Tong and Peng, Qiuying and Cheng, Cheng and Qi, Yue},
+  booktitle={Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence},
+  pages={3559--3567},
+  year={2023}
+}
