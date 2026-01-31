@@ -1,7 +1,0 @@
-@inproceedings{wang2023internimage,
-  title={Internimage: Exploring large-scale vision foundation models with deformable convolutions},
-  author={Wang, Wenhai and Dai, Jifeng and Chen, Zhe and Huang, Zhenhang and Li, Zhiqi and Zhu, Xizhou and Hu, Xiaowei and Lu, Tong and Lu, Lewei and Li, Hongsheng and others},
-  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
-  pages={14408--14419},
-  year={2023}
-}
